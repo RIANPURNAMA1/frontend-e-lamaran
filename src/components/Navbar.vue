@@ -113,7 +113,7 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
-import LoginModal from "../pages/LoginModal.vue";
+import LoginModal from "../Pages/LoginModal.vue";
 import Swal from "sweetalert2";
 
 
